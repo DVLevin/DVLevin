@@ -32,7 +32,10 @@ Full archive: [dimalevin.com/blog](https://dimalevin.com/blog/)
 
 Most of what I build ships inside client systems and stays private. Public pieces:
 
-* [The Agentic Practicum](https://dvlevin.github.io/Agentic-Practicum/): a hands-on course on building agentic systems, by Cone Red AI
+* [The AI-First Company Handbook](https://dvlevin.github.io/ai-first-handbook/): a field handbook on building an AI-first company ([source](https://github.com/DVLevin/ai-first-handbook))
+* [LlamaIndex Pre-sales Pipeline](https://github.com/DVLevin/LlamaIndex-Presales): multi-agent presales pipeline, call transcript in, draft proposal package out
+* [I-MELT](https://github.com/CONE-RED/I-MELT-demo): electric arc furnace AI optimization demo, physics-based simulation with explainable recommendations
+* [The Agentic Practicum](https://dvlevin.github.io/Agentic-Practicum/): a hands-on program, one working agentic pipeline per participant
 * [CONE-RED](https://github.com/CONE-RED): demos and tools from the lab
 
 ### Elsewhere
