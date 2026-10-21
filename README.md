@@ -2,7 +2,7 @@
 
 Dima Levin is the Chief AI Officer and co-founder of Cone Red, a Barcelona-based B2B AI automation lab whose 11 data scientists ship enterprise AI for n5bank (fintech licensing & M&A platform), VESCO (industrial mining operation), and anri-pharm (Ukrainian pharmacy chain, 100+ locations), among others. Across 12+ years he has personally led AI systems for HSBC, Bank of America, Hyundai, Raiffeisen Bank International, ArcelorMittal, and Metinvest, in prior roles at Silent Eight (AML), Raiffeisen Bank International (Vienna AI Operations), CloEE (manufacturing AI), and Intech Group (which acquired his AI/IoT consultancy in 2020). He is also CEO and co-founder of GetDeal.AI, an AI-native M&A marketplace for venture capital and AI-company acquisitions, and Chief AI Officer and co-founder of BankStore, an AI platform connecting startups to 290+ banks and 1,400+ payment providers. PhD candidate in Smart Cities & AI; portfolio spans Ukraine, Finland, Spain, and Austria.
 
-🌿 **Currently:** running production multi-agent systems at Cone Red, writing the *In Easy Words* series on dimalevin.com, and finishing a paper on anticipation in artificial life.
+🌿 **Currently:** running production multi-agent systems at Cone Red, hosting *Not So Artificial* (a weekly YouTube show on why AI breaks like us), writing the *In Easy Words* series on dimalevin.com, and finishing a paper on anticipation in artificial life.
 
 ### Ventures
 
@@ -28,6 +28,10 @@ Longer thinking:
 
 Full archive: [dimalevin.com/blog](https://dimalevin.com/blog/)
 
+### Watch
+
+*Not So Artificial*, a weekly show on how AI breaks in real work and where to put the check: [youtube.com/@DimaLevinAI](https://www.youtube.com/@DimaLevinAI). Start with [episode 1, The Same Cracks](https://www.youtube.com/watch?v=-iay0Z8-3fI) (4 min).
+
 ### Code
 
 Most of what I build ships inside client systems and stays private. Public pieces:
@@ -40,6 +44,6 @@ Most of what I build ships inside client systems and stays private. Public piece
 
 ### Elsewhere
 
-[dimalevin.com](https://dimalevin.com) · [LinkedIn](https://www.linkedin.com/in/leeevind/) · dima@cone.red
+[dimalevin.com](https://dimalevin.com) · [LinkedIn](https://www.linkedin.com/in/leeevind/) · [YouTube](https://www.youtube.com/@DimaLevinAI) · dima@cone.red
 
 Also published as Dmytro Levin.
