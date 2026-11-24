@@ -1,49 +1,48 @@
 # Dima Levin
 
-Dima Levin is the Chief AI Officer and co-founder of Cone Red, a Barcelona-based B2B AI automation lab whose 11 data scientists ship enterprise AI for n5bank (fintech licensing & M&A platform), VESCO (industrial mining operation), and anri-pharm (Ukrainian pharmacy chain, 100+ locations), among others. Across 12+ years he has personally led AI systems for HSBC, Bank of America, Hyundai, Raiffeisen Bank International, ArcelorMittal, and Metinvest, in prior roles at Silent Eight (AML), Raiffeisen Bank International (Vienna AI Operations), CloEE (manufacturing AI), and Intech Group (which acquired his AI/IoT consultancy in 2020). He is also CEO and co-founder of GetDeal.AI, an AI-native M&A marketplace for venture capital and AI-company acquisitions, and Chief AI Officer and co-founder of BankStore, an AI platform connecting startups to 290+ banks and 1,400+ payment providers. PhD candidate in Smart Cities & AI; portfolio spans Ukraine, Finland, Spain, and Austria.
+**AI Product & Implementation Leader** based in Barcelona. I work with the people who run a workflow to decide what AI should handle, what a person needs to check, and how we’ll know whether it helps. I lead the engineers who turn those decisions into a working system.
 
-🌿 **Currently:** running production multi-agent systems at Cone Red, hosting *Not So Artificial* (a weekly YouTube show on why AI breaks like us), writing the *In Easy Words* series on dimalevin.com, and finishing a paper on anticipation in artificial life.
+At Silent Eight, I led the transaction-screening product and its data-science team. I set the acceptance tests for changes we released to banks. [Read the Silent Eight case](https://dimalevin.com/blog/case-study-banking-aml/)
+
+At Cone Red, I designed the architecture and wrote the acceptance criteria for a bank-statement system. Our engineers built it. The client’s accountants now review exceptions instead of retyping statements. [Read the production case](https://cone.red/solutions/financial-document-automation)
+
+### Public work samples
+
+* [Triage](https://github.com/DVLevin/triage-pm) lets a reviewer inspect AI-generated engineering work against its source and record a decision in a local mobile prototype.
+* [LlamaIndex Pre-sales Pipeline](https://github.com/DVLevin/LlamaIndex-Presales) shows how a conversation transcript becomes a draft proposal a salesperson can check and edit.
+* [I-MELT](https://github.com/CONE-RED/I-MELT-demo) uses synthetic and industry-reference data to simulate furnace operation and explain its recommendations.
+* [The AI-First Company Handbook](https://dvlevin.github.io/ai-first-handbook/) is a field handbook for teams adopting AI. [Source](https://github.com/DVLevin/ai-first-handbook)
+* [The Agentic Practicum](https://dvlevin.github.io/Agentic-Practicum/) is a hands-on program in which each participant builds a working agent pipeline.
+* [Cone Red on GitHub](https://github.com/CONE-RED) publishes demos and tools from the lab.
 
 ### Ventures
 
-* **[Cone Red](https://cone.red)**: Chief AI Officer and co-founder. A Barcelona-based B2B AI automation lab shipping production AI across banking, smart cities, industrial, and pharma.
-* **[GetDeal.AI](https://getdeal.ai)**: CEO and co-founder. An AI-native M&A marketplace for venture capital and AI-company acquisitions.
-* **[BankStore](https://bankstore.ai)**: Chief AI Officer and co-founder. An AI platform connecting startups to 290+ banks and 1,400+ payment providers.
+* **Cone Red** — Co-Founder & Chief AI Officer. I lead product and implementation decisions with client teams. [Cone Red](https://cone.red)
+* **GetDeal.AI** — Co-Founder & Board Member. I contribute to product strategy and technology direction for the M&A marketplace. [GetDeal.AI](https://getdeal.ai)
+* **BankStore** — Co-Founder & Chief AI Officer. I advise on AI product direction for business banking. [BankStore](https://bankstore.ai)
 
 ### Writing I want you to read
 
-From the production floor:
+On leading implementation
 
 * [What Does a Chief AI Officer Actually Do?](https://dimalevin.com/blog/chief-ai-officer-in-easy-words/)
 * [The AI-First Company](https://dimalevin.com/blog/the-ai-first-company/)
 * [Orchestration Is the System](https://dimalevin.com/blog/cornerstone-orchestration-is-the-system/)
 * [How to Implement AI in Enterprise: A Practical Guide](https://dimalevin.com/blog/how-to-implement-ai-enterprise/)
-* [How We Built an AML System at Silent Eight: From Rules to AI](https://dimalevin.com/blog/case-study-banking-aml/)
-* [From Paper Chaos to Voice AI: How We Automated a €2.3M Clay Mining Operation](https://dimalevin.com/blog/case-study-vesco-mining/)
 
-Longer thinking:
+Longer essays
 
 * [Europe Is Running on Rented Intelligence](https://dimalevin.com/blog/rented-intelligence/)
 * [A Reason to Be Rare](https://dimalevin.com/blog/a-reason-to-be-rare/) (artificial life, the Chronos series)
 
-Full archive: [dimalevin.com/blog](https://dimalevin.com/blog/)
+Full archive at [dimalevin.com/blog](https://dimalevin.com/blog/)
 
 ### Watch
 
-*Not So Artificial*, a weekly show on how AI breaks in real work and where to put the check: [youtube.com/@DimaLevinAI](https://www.youtube.com/@DimaLevinAI). Start with [episode 1, The Same Cracks](https://www.youtube.com/watch?v=-iay0Z8-3fI) (4 min).
-
-### Code
-
-Most of what I build ships inside client systems and stays private. Public pieces:
-
-* [The AI-First Company Handbook](https://dvlevin.github.io/ai-first-handbook/): a field handbook on building an AI-first company ([source](https://github.com/DVLevin/ai-first-handbook))
-* [LlamaIndex Pre-sales Pipeline](https://github.com/DVLevin/LlamaIndex-Presales): multi-agent presales pipeline, call transcript in, draft proposal package out
-* [I-MELT](https://github.com/CONE-RED/I-MELT-demo): electric arc furnace AI optimization demo, physics-based simulation with explainable recommendations
-* [The Agentic Practicum](https://dvlevin.github.io/Agentic-Practicum/): a hands-on program, one working agentic pipeline per participant
-* [CONE-RED](https://github.com/CONE-RED): demos and tools from the lab
+I host *Not So Artificial*, a show about how AI breaks in real work and where a person can catch it. [YouTube channel](https://www.youtube.com/@DimaLevinAI). Start with [episode 1, The Same Cracks](https://www.youtube.com/watch?v=-iay0Z8-3fI) (4 min).
 
 ### Elsewhere
 
-[dimalevin.com](https://dimalevin.com) · [LinkedIn](https://www.linkedin.com/in/leeevind/) · [YouTube](https://www.youtube.com/@DimaLevinAI) · dima@cone.red
+[Work with me](https://dimalevin.com/work/) · [LinkedIn](https://www.linkedin.com/in/leeevind/) · [YouTube](https://www.youtube.com/@DimaLevinAI)
 
-Also published as Dmytro Levin.
+I’m a PhD candidate in Smart Cities and AI. I also publish as Dmytro Levin.
